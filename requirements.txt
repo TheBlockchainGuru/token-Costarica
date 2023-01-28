@@ -1,0 +1,9 @@
+Here are some specs:
+
+* function to stop all addresses (except contract owner) from buying or selling, the name of this function should be “pause activity” this function should be true when deploying the contract.
+* For the previous function I need an exception of whitelisted addresses which I can add or remove from that list, and the addresses in that list can buy or sell at all time. The name of this functions should be: “add exception” and “remove exception”
+* I need a function to ban addresses with a 100 fee. The name of this function should be “blacklist”
+* Total supply is 7,777,777 tokens and all will go to the contract owner wallet, which will deploy the smart contract
+* I want to deploy the contract myself and test it.
+* Please don’t ask for ETH in able to test it. I won’t send ETH.
+* I will need the instructions to deploy the contract by myself. A screen recording as an example will do it.
